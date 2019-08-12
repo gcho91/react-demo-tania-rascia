@@ -1,9 +1,9 @@
-import React from 'react';
+import React, { Component } from 'react';
 import Table from './Table';
 import Form from './Form';
 import './App.css';
 
-class App extends React.Component {
+class App extends Component {
   state = {
     characters: [
     ]
