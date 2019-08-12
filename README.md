@@ -6,8 +6,8 @@ Source: https://www.taniarascia.com/getting-started-with-react/
 
 ## How to run
 
--Clone repository to your computer
--Make sure you have React & create-react-app installed
--Run `yarn install`
--Run `yarn start`
--Check localhost:3000
+- Clone repository to your computer
+- Make sure you have React & create-react-app installed
+- Run `yarn install`
+- Run `yarn start`
+- Check localhost:3000
